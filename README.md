@@ -11,6 +11,8 @@
 
 2. Normal distribution. Folder with a jupyter notebook with the normal distribution project.  
 
+3. Assessment description folder. Folder with a pdf with the description of the assessment.  
+
 ## 2. SOFTWARE USED. 
 
 1. Visual studio code.   
