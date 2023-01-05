@@ -19,8 +19,4 @@
 2. Jupyter notebook. 
 3. Anaconda.  
 
-## 3. HOW TO WORK WITH THE FILES. 
-
-1. Open the jupyter notebooks (.ipynb)  
-2. Download and open the file within a jupyter notebook.  
-3. Press "Cell" and then "Run all".  
+  
